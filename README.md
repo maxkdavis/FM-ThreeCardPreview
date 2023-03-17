@@ -1,5 +1,7 @@
 # Frontend Mentor - 3-column preview card component
 
+Live Link: https://glowing-praline-97a446.netlify.app/
+
 ![Design preview for the 3-column preview card component coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
